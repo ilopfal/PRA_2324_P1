@@ -1,5 +1,7 @@
 #ifndef LIST_H
 #define LIST_H
+#include <iostream>
+#include <ostream>
 template <typename T> 
 class List {
     public:
